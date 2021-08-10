@@ -1,0 +1,77 @@
+.cartbody{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+}
+
+.cartheader{
+    text-align: center;
+    color:white;
+    padding: 10px;
+}
+
+.ShoppingList{
+    margin: 100px;
+}
+
+.cartfieldset{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.cart{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.itemlist{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.itemlist td{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.cartleft{
+    text-align: right;
+}
+
+.removebutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.sizeoption, .quantityoption{
+    border-radius: 15px;
+    background-color: rgb(148, 142, 142);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.confirmchanges{
+    text-align: center;
+}
+
+.confirmbutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 30px;
+
+    border-radius: 8px;
+}
+
+.proceedbutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 8px;
+}

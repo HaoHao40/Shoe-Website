@@ -1,0 +1,55 @@
+.background{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    padding-top: 70px;
+}
+
+.legpic{
+
+    align-items: center; 
+    height:auto;
+    width:100%;
+
+}
+
+.paragraph {
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+    color:black;
+    font-size:130%;
+}
+
+
+
+.headerstyle1 {
+    text-align: center;
+    background-color:pink;
+    color:brown;
+    font-size:400%;
+   
+}
+
+.headerstyle2 {
+    text-align: center;
+    background-color:pink;
+    color:brown;
+    font-size:300%;
+    
+}
+.table1 {
+    width: 100%;  
+    table-layout: fixed;
+    border:1;
+    color:black;
+    font-size:200% 
+}
+
+.center{
+    text-align: center;   
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}

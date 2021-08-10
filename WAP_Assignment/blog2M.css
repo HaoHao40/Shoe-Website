@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.blogContainer {
+    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+    text-align: center;
+    padding-top: 70px;
+}
+
+.headline {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.blogCover {
+    filter: drop-shadow(0px 5px 3px black);
+}
+
+.introduction h1 {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 15px;
+}
+
+.introduction p {
+    background-color: white;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.mainContent h1 {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 15px;
+}
+
+.mainContent p {
+    background-color: white;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.video {
+    filter: drop-shadow(0px 5px 3px black);
+    margin-bottom: 15px;
+}
+
+.subHeadlines h1 {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.subHeadlines ul .subHeaders {
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.subHeadlines ul li {
+    background-color: grey;
+    color: whitesmoke;
+    width: 100%;
+    padding: 10px;
+}
+
+.conclusion h1 {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.conclusion p {
+    background-color: white;
+    color: black;
+}
+

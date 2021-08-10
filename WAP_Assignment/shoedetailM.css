@@ -1,0 +1,95 @@
+.detailbody{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+}
+
+.detailtable{
+    padding:30px;
+}
+
+.detailheader{
+    text-align: center;
+    color:white;
+    padding: 10px;
+}
+
+.detailpic img{
+    height: 400px;
+    width: 400px;
+    margin: 8px;
+    border-radius: 8px;
+}
+
+.itemname{
+    text-align: center;
+}
+
+.itembrand{
+    padding-left: 20px;
+}
+
+.itemprice{
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.itemcolor{
+    padding-left: 20px;
+}
+
+.itemdesc{
+    text-align: justify;
+    word-spacing: 10px;
+    line-height: 20px;
+    padding: 15px;
+    border-style: inset;
+}
+
+.addtocart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.addtocartbutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.reviewtable{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reviewtable th{
+    border: 2px solid black;
+}
+
+.reviewtable td{
+    padding: 20px;
+}
+
+
+.reviewheader{
+    font-size: larger;
+}
+
+.reviewname{
+    border-bottom-style:outset;
+    border-left-style:outset;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
+
+.reviewcontent{
+    border-bottom-style:outset;
+    border-right-style:outset;
+}
+
+.terms{
+    padding: 60px;
+}

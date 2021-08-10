@@ -1,0 +1,53 @@
+.shippingbody{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);
+}
+
+.shippinginfo{
+    margin-left: auto;
+    margin-right: auto;
+    padding :20px;
+}
+
+.submit{
+    text-align: center;
+}
+
+.submitbutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.shippingfieldset{
+    text-align: center;
+}
+
+.shippingtable{
+    margin-left: auto;
+    margin-right: auto;
+    padding :20px;
+}
+
+.shippingtable td{
+    padding-left: 20px;
+}
+
+.shippingleft{
+    text-align: right;
+}
+
+.shipping{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.changebutton{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    border-radius: 8px;
+}    

@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#signUpContainer {
+	padding-top: 70px;
+    height: 100%;
+	width: 100%;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+}
+
+#signUpContainer form {
+	background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+	padding-bottom: 40px;
+}
+
+#signUpContainer input[type=submit] {
+	background-color: black;
+	color: whitesmoke;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+#signUpContainer input[type=submit]:hover {
+	filter: drop-shadow(0px 5px 3px black);
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.usernameContainer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: yellow;
+}
+
+.passwordContainer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: yellow;
+}
+
+.passwordContainer input {
+	-webkit-text-security: circle;
+}
+
+.addressContainer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 13px;
+	color: yellow;
+}
+
+.genderContainer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: -30px;
+	color: yellow;
+}
+
+.emailContainer {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 28px;
+	color: yellow;
+}
+
+.headerContainer {
+	background-color: black;
+	color: yellow;
+    width: 100%;
+    height: 40px;
+}
